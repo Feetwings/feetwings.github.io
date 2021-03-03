@@ -7,10 +7,15 @@ import Home from './components/home/home';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Features from './components/features/features';
 // import ReactDOM from 'react-dom'
+// import Video from './components/Video/video';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons'
-
+import Growth from './components/growth/growth';
+import Step from './components/step/step';
+import Question from './components/questions/questions';
+import Footer from './components/footer/footer';
+import Video from './components/videoss/video.js';
 library.add(fab, faCheckSquare, faCoffee)
 function App() {
   return (
@@ -20,6 +25,12 @@ function App() {
       <Overlay /> 
       <Home />
       <Features/>
+      <Video />
+      <Growth />
+      <Step />
+      <Question />
+      <Footer />
+      
     </div>
   );
 }
