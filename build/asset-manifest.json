@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d30c584.chunk.css",
+    "main.js": "/static/js/main.8d67985f.chunk.js",
+    "main.js.map": "/static/js/main.8d67985f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c423901.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c423901.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.95567efb.chunk.js": "/static/js/2.95567efb.chunk.js",
+    "static/js/2.95567efb.chunk.js.map": "/static/js/2.95567efb.chunk.js.map",
+    "static/js/3.ecefa6b9.chunk.js": "/static/js/3.ecefa6b9.chunk.js",
+    "static/js/3.ecefa6b9.chunk.js.map": "/static/js/3.ecefa6b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8d30c584.chunk.css.map": "/static/css/main.8d30c584.chunk.css.map",
+    "static/js/2.95567efb.chunk.js.LICENSE.txt": "/static/js/2.95567efb.chunk.js.LICENSE.txt",
+    "static/media/feetwingslogo.13a77ab0.png": "/static/media/feetwingslogo.13a77ab0.png",
+    "static/media/style.css": "/static/media/newsletter-texture.c612ff3d.png",
+    "static/media/phone-01.c2ecdc8f.png": "/static/media/phone-01.c2ecdc8f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c423901.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.95567efb.chunk.js",
+    "static/css/main.8d30c584.chunk.css",
+    "static/js/main.8d67985f.chunk.js"
+  ]
+}
